@@ -1,0 +1,78 @@
+#tr1{
+    border: none;
+}
+
+#tr2{
+    height: 30px;
+    border: none;
+}
+
+#tr3{
+    border: none;
+}
+
+#td1{
+    border: none;
+}
+
+#td2{
+    border: none;
+}
+
+
+#td3{
+    border: none;
+}
+
+#img{
+    width: 300px;
+    height: 250px;
+}
+
+#table{
+    border-radius: 15px;
+}
+
+#input{
+    width: 300px;
+    height: 25px;
+}
+
+#btn{
+    width: 300px;
+    height: 35px;
+    margin-left: 72px;
+}
+
+
+#btn:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    
+}
+
+
+#btn2{
+    margin-left: 20px;
+}
+
+
+#btn2:hover{
+     width: 250px;
+    height: 60px;
+    background-color: red;
+    color: red;
+    
+}
+
+#select{
+    width: 100px;
+    height: 35px;
+    cursor: pointer;
+}
+
+
+#lebel{
+    margin-left: 20px;
+}
